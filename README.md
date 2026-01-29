@@ -1,8 +1,8 @@
-# mageshk
+
 <h1 align="center">Hi 👋, I'm Magesh K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+%26+AI+Engineer;Actively+learning+and+building;Always+learning%2C+always+building&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+%26+AI+Engineer;&center=true&width=600&height=45">
 </p>
 
 ---

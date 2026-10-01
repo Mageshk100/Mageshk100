@@ -14,7 +14,7 @@ I am a **Computer Science Engineering student** who is passionate about
 **Full Stack Web Development, Artificial Intelligence, and Machine Learning**.
 
 - 🎓 B.Tech CSE (3rd Year) at **SRM Institute of Science and Technology**
-- 📊 CGPA: **9.42**
+- 📊 CGPA: **9.48**
 - 💡 Strong interest in building scalable web applications and intelligent systems
 - 🧠 Actively improving **Data Structures & Problem Solving**
 - 🚀 Exploring how **AI/ML integrates with real-world software products**

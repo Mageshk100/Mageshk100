@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Magesh K</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Web+Developer+%26+AI+Engineer;&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Web+Developer , Data Engineer +%26+AI+Engineer;&center=true&width=600&height=45">
 </p>
 
 ---
